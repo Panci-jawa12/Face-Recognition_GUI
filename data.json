@@ -1,0 +1,28 @@
+{
+    "model": "2022-08-24T04:09:47.184010Z",
+    "masuk": "07:30:00",
+    "pulang": "16:00:00",
+    "user": {
+        "Febri Aji Maulana": {
+            "tanggal": "2022-08-03",
+            "masuk": "08:30:33",
+            "pulang": "00:00:00",
+            "suhu": "36.5",
+            "keterangan": "Telat",
+            "nis": "09791",
+            "nama": "Febri Aji Maulana",
+            "kelas": "XII IPA"
+        },
+        "Agung Wahyu": {
+            "tanggal": "2022-08-24",
+            "masuk": "10:59:02",
+            "pulang": "00:00:00",
+            "suhu": "36.5",
+            "keterangan": "Hadir",
+            "nip": "123123",
+            "nama": "Agung Wahyu",
+            "jabatan": "Ketua Tim",
+            "shift": "23:00:00"
+        }
+    }
+}
